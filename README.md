@@ -1,1 +1,1 @@
-# support.aura.io
+# news.aura.io
